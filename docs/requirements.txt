@@ -17,7 +17,7 @@ docopt==0.6.2=pypi_0
 docutils==0.20.1=pypi_0
 etils==1.1.0=pypi_0
 executing==1.2.0=pyhd8ed1ab_0
-fastavro=1.7.3=pypi_0
+fastavro==1.7.3=pypi_0
 fasteners==0.18=pypi_0
 filelock==3.10.0=pypi_0
 flatbuffers==1.12=pypi_0
@@ -52,7 +52,7 @@ kaggle==1.5.13=pypi_0
 keras==2.11.0=pypi_0
 keras-nightly==2.5.0.dev2021032900=pypi_0
 keras-preprocessing==1.1.2=pypi_0
-kiwisolver=1.4.4=pypi_0
+kiwisolver==1.4.4=pypi_0
 ld_impl_linux-64==2.40=h41732ed_0
 libblas=3.9.0==16_linux64_openblas
 libcblas==3.9.0=16_linux64_openblas
