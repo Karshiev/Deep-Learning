@@ -33,7 +33,7 @@ matplotlib==3.7.3
 matplotlib-inline==0.1.6
 multidict==6.0.2
 nest-asyncio==1.6.0
-numpy==1.26.4
+numpy==1.24.4
 oauthlib==3.1.0
 packaging==23.2
 pandas==2.2.1
