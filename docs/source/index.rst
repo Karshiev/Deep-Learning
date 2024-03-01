@@ -16,7 +16,7 @@ Indices and tables
 ==================
 
 Hello World
-
+==================
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
