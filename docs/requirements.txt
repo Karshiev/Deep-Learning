@@ -52,7 +52,6 @@ pyDeprecate==0.3.2
 Pygments==2.17.2
 pyparsing==3.1.1
 python-dateutil==2.9.0
-pytorch-lightning==1.6.4
 pytz==2024.1
 PyYAML==5.4.1
 pyzmq==25.1.2
@@ -70,7 +69,6 @@ torchvision==0.9.1
 tornado==6.4
 tqdm==4.59.0
 traitlets==5.14.1
-typing-extensions==3.7.4.3
 tzdata==2024.1
 urllib3==1.26.4
 wcwidth==0.2.13
