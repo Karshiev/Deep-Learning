@@ -11,3 +11,4 @@ torchaudio==0.8.1
 torchmetrics==0.9.0
 torchvision==0.9.1
 tqdm==4.59.0
+sphinx_rtd_theme==2.0.0
